@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boierfwasula.github.io/sitemap.xml
